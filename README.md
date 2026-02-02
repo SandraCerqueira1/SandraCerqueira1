@@ -15,7 +15,7 @@ Atualmente, estou a especializar-me e a desafiar-me no **2º semestre do Mestrad
 * **Áreas de Foco:** Machine Learning, Otimização, Data Analysis.
 
 #### 💻 Licenciatura (LEI)
-* **Linguagens & Ferramentas:** Java, C, C++, C#, Haskell, .NET, Python.
+* **Linguagens & Ferramentas:** Java, C, C++, C#, Haskell, .NET, Python, Knime, MATLAB, SQL, MySQL etc
 * **Bases:** Engenharia de Software, Algoritmos, Sistemas Operativos.
 
 ---
