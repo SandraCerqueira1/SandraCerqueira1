@@ -26,9 +26,9 @@ Atualmente, estou a especializar-me e a desafiar-me no **2º semestre do Mestrad
 * **Electrical Network Optimization (MAOM):** Otimização Não Linear via `fmincon` | Nota: **18**
 
 ### 💻 Outros Projetos Relevantes (LEI)
-**ADI - Applied Machine Learning:** Diagnóstico médico (Hepatite C) e previsão imobiliária utilizando KNIME, Random Forest e Gradient Boosted Trees.
+* **Machine Learning - Applied Machine Learning:** Diagnóstico médico (Hepatite C) e previsão imobiliária utilizando KNIME, Random Forest e Gradient Boosted Trees.
 * **Auction Website:** Plataforma de leilões para LEGO em .NET Blazor e SQL Server.
-* * **Mechanic Management UI:** Protótipo focado em IHC desenvolvido com Vue.js e Figma.
+* **Mechanic Management UI:** Protótipo focado em IHC desenvolvido com Vue.js e Figma.
 * **Pascal Compiler:** Compilador completo (léxico, sintático e semântico) em Python.
 * **3D Engine & Generator:** Motor de renderização em C++ e OpenGL com curvas Catmull-Rom.
 * **Encrypted Message Service:** Sistema seguro com RSA, AES-GCM e Diffie-Hellman.
