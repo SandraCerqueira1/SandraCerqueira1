@@ -11,8 +11,8 @@ Atualmente, estou a especializar-me e a desafiar-me no **2º semestre do Mestrad
 
 #### 📊 Mestrado (MECD)
 * **Linguagens & Ferramentas:** Python, R, MATLAB, Anaconda.
-* **Business Intelligence:** Power BI.
-* **Áreas de Foco:** Machine Learning, Otimização, Data Analysis.
+* **Business Intelligence:** Power BI, Tableau.
+* **Áreas de Foco:** Machine Learning, Deep Learning, Otimização, Data Analysis.
 
 #### 💻 Licenciatura (LEI)
 * **Linguagens & Ferramentas:** Java, C, C++, C#, Haskell, .NET, Python, Knime, MATLAB, SQL, MySQL etc
@@ -21,9 +21,15 @@ Atualmente, estou a especializar-me e a desafiar-me no **2º semestre do Mestrad
 ---
 
 ### 🏆 Projetos em Destaque (MECD)
-* **Road Traffic Flow Prediction (DAA):** 5º lugar no Kaggle Privado | Nota: **19.5**
-* **Aerodynamic Optimization (MAOM):** Algoritmos Genéticos e Pareto | Nota: **19**
-* **Electrical Network Optimization (MAOM):** Otimização Não Linear via `fmincon` | Nota: **18**
+
+* **Road Traffic Flow Prediction (DAA):** Modelação preditiva de fluxo de tráfego rodoviário, alcançando o 5º lugar no Kaggle Privado. | Nota: **19.5**
+* **Aerodynamic Optimization (MAOM):** Otimização multi-objetivo de perfis aerodinâmicos recorrendo a Algoritmos Genéticos e frentes de Pareto. | Nota: **19.0**
+* **Predictive Digital Wellbeing (MCD):** Análise preditiva e segmentação (CRISP-DM) do impacto do tempo de ecrã no bem-estar mental. | Nota: **19.**
+* **Business Intelligence & Data Warehouse (DSIA):** Pipeline completo de BI (MySQL, DW, ETL) e dashboards em Tableau para dados de retalho. | Nota: **18.8** 
+* **Electrical Network Optimization (MAOM):** Otimização não-linear aplicada a redes de distribuição elétrica via algoritmo `fmincon`. | Nota: **18.0**
+* **LLM Text Detection:** Classificação de texto Humano vs. IA utilizando modelos de raiz (NumPy), LSTMs e Transformers (RoBERTa/ALBERT). | Nota: **17.0**
+* **ERCP Fluoroscopy Image Classification:** Cosntrução de modelos Deep Learning para classificação de imagens de CPRE| Nota: **Por avaliar** ⏳
+* **Requirements-Driven VDI Reengineering (ERCD):** Auditoria e reengenharia de requisitos (SWEBOK/ISO 29148) de um sistema VDI para andebol. | Nota: **Por avaliar** ⏳
 
 ### 💻 Outros Projetos Relevantes (LEI)
 * **Machine Learning - Applied Machine Learning:** Diagnóstico médico (Hepatite C) e previsão imobiliária utilizando KNIME, Random Forest e Gradient Boosted Trees.
