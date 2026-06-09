@@ -25,7 +25,8 @@ Atualmente, estou a especializar-me e a desafiar-me no **2º semestre do Mestrad
 * **Road Traffic Flow Prediction (DAA):** Modelação preditiva de fluxo de tráfego rodoviário, alcançando o 5º lugar no Kaggle Privado. | Nota: **19.5**
 * **Aerodynamic Optimization (MAOM):** Otimização multi-objetivo de perfis aerodinâmicos recorrendo a Algoritmos Genéticos e frentes de Pareto. | Nota: **19.0**
 * **Predictive Digital Wellbeing (MCD):** Análise preditiva e segmentação (CRISP-DM) do impacto do tempo de ecrã no bem-estar mental. | Nota: **19.**
-* **Business Intelligence & Data Warehouse (DSIA):** Pipeline completo de BI (MySQL, DW, ETL) e dashboards em Tableau para dados de retalho. | Nota: **18.8** 
+* **Business Intelligence & Data Warehouse (DSIA):** Pipeline completo de BI (MySQL, DW, ETL) e dashboards em Tableau para dados de retalho. | Nota: **18.8**
+* **Predictive & Prescriptive Retail System (SAAPP):** Intelligent Decision Support System (IDSS) com Forecasting multivariado/VAR, Otimização via Algoritmos Genéticos e dashboard interativo em R Shiny. | Nota: **18.2**
 * **Electrical Network Optimization (MAOM):** Otimização não-linear aplicada a redes de distribuição elétrica via algoritmo `fmincon`. | Nota: **18.0**
 * **LLM Text Detection:** Classificação de texto Humano vs. IA utilizando modelos de raiz (NumPy), LSTMs e Transformers (RoBERTa/ALBERT). | Nota: **17.0**
 * **ERCP Fluoroscopy Image Classification:** Cosntrução de modelos Deep Learning para classificação de imagens de CPRE| Nota: **Por avaliar** ⏳
