@@ -29,8 +29,8 @@ Atualmente, estou a especializar-me e a desafiar-me no **2º semestre do Mestrad
 * **Business Intelligence & Data Warehouse (DSIA):** Pipeline completo de BI (MySQL, DW, ETL) e dashboards em Tableau para dados de retalho. | Nota: **18.8**
 * **Predictive & Prescriptive Retail System (SAAPP):** Intelligent Decision Support System (IDSS) com Forecasting multivariado/VAR, Otimização via Algoritmos Genéticos e dashboard interativo em R Shiny. | Nota: **18.2**
 * **Electrical Network Optimization (MAOM):** Otimização não-linear aplicada a redes de distribuição elétrica via algoritmo `fmincon`. | Nota: **18.0**
+* * **Requirements-Driven VDI Reengineering (ERCD):** Auditoria e reengenharia de requisitos (SWEBOK/ISO 29148) de um sistema VDI para andebol. | Nota: **18.0** 
 * **LLM Text Detection:** Classificação de texto Humano vs. IA utilizando modelos de raiz (NumPy), LSTMs e Transformers (RoBERTa/ALBERT). | Nota: **17.0**
-* **Requirements-Driven VDI Reengineering (ERCD):** Auditoria e reengenharia de requisitos (SWEBOK/ISO 29148) de um sistema VDI para andebol. | Nota: **18.0** 
 
 ### 💻 Outros Projetos Relevantes (LEI)
 * **Machine Learning - Applied Machine Learning:** Diagnóstico médico (Hepatite C) e previsão imobiliária utilizando KNIME, Random Forest e Gradient Boosted Trees.
